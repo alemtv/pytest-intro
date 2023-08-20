@@ -15,7 +15,7 @@ To execute the tests from a specific file, use the following syntax
 pytest <filename> -v
 ```
 ___
-##Markers
+## Markers
 Markers are applied on the tests using the syntax given below
 ```
 @pytest.mark.<markername>
